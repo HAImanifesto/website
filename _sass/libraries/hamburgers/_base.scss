@@ -1,6 +1,6 @@
 // Hamburger
 // ==================================================
-@use "sass:math";
+//@use "sass:math"; // compile error
 
 .hamburger {
   padding: $hamburger-padding-y $hamburger-padding-x;
