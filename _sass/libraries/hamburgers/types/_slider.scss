@@ -1,4 +1,4 @@
-//@use "sass:math"; // commented due to an error in GitHub pages
+@use "sass:math";
 
 @if index($hamburger-types, slider) {
   /*
