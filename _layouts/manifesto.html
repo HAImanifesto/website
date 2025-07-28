@@ -18,17 +18,18 @@ bodyClass: "page-manifesto"
   <div class="row">
     {% assign cards = site.scorecards | sort: "weight" %}
     {% for card in cards %}
-    <div class="col-12 col-md-4 mb-3">
-      <div class="team team-summary">
+    <div class="col-12 col-md-6 mb-3">
+      <div class="team scorecard-summary">
         {% if card.image %}
-        <div class="team-image">
+        <div class="scorecard-image">
           <a href="{{ card.url | relative_url }}">
             <img width="60" height="60" alt="{{ card.title }}" class="img-fluid mb-2" src="{{ card.image | relative_url }}" />
           </a>
         </div>
         {% endif %}
-        <div class="team-meta">
-          <h2 class="team-name"><a href="{{ card.url | relative_url }}">{{ card.title }}</a></h2>
+        <div class="scorecard-meta">
+          {% assign score_name = card.title | split: " - " | first %}
+          <h2 class="team-name"><a href="{{ card.url | relative_url }}">{{ score_name }}</a></h2>
           {% if card.hi %}
           <p class="team-description small">HI: {{ card.hi }}%{% if card.hi_role %} - {{ card.hi_role }}{% endif %}</p>
           {% endif %}
