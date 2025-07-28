@@ -15,6 +15,19 @@ bodyClass: "page-manifesto"
 </div>
 
 <div class="container pt-6 pb-6">
+  {% if page.scorecards_title or page.scorecards_description %}
+  <div class="row">
+    <div class="col-12">
+      {% if page.scorecards_title %}
+      <h2>{{ page.scorecards_title }}</h2>
+      <hr>
+      {% endif %}
+      {% if page.scorecards_description %}
+      <p class="scorecards-description">{{ page.scorecards_description }}</p>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
   <div class="row">
     {% assign cards = site.scorecards | sort: "weight" %}
     {% for card in cards %}
