@@ -11,18 +11,20 @@ bodyClass: "page-manifesto"
         <h1 class="title">{{ page.title }}</h1>
         <div class="content">
           {{ content }}
-          {% if page.scorecards_title or page.scorecards_description %}
-            {% if page.scorecards_title %}
-            <h2>{{ page.scorecards_title }}</h2>
-            <hr>
-            {% endif %}
-            {% if page.scorecards_description %}
-            <p class="scorecards-description">{{ page.scorecards_description }}</p>
+          {% if page.scorecards %}
+            {% if page.scorecards_title or page.scorecards_description %}
+              {% if page.scorecards_title %}
+              <h2>{{ page.scorecards_title }}</h2>
+              <hr>
+              {% endif %}
+              {% if page.scorecards_description %}
+              <p class="scorecards-description">{{ page.scorecards_description }}</p>
+              {% endif %}
             {% endif %}
           {% endif %}
         </div>
       </div>
-
+      {% if page.scorecards %}
       <div class="container pt-6 pb-6">
         <div class="row">
           {% assign cards = site.scorecards | sort: "weight" %}
@@ -51,8 +53,7 @@ bodyClass: "page-manifesto"
           {% endfor %}
         </div>
       </div>
-
-
+      {% endif %}
     </div>
   </div>
 </div>
