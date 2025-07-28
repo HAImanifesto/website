@@ -1,6 +1,6 @@
 ---
 title: The HAI/ Manifesto
-layout: page
+layout: manifesto
 description: The HAI/ Manifesto
 ---
 
