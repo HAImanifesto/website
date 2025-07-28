@@ -1,0 +1,9 @@
+{% if site.data.languages %}
+<nav id="languages-menu" class="languages-menu">
+  <ul>
+  {% for lang in site.data.languages %}
+    <li><a href="{{ lang.url | relative_url }}">{{ lang.label }}</a></li>
+  {% endfor %}
+  </ul>
+</nav>
+{% endif %}
