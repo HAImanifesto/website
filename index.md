@@ -2,6 +2,8 @@
 title: The HAI/ Manifesto
 layout: manifesto
 description: The HAI/ Manifesto
+scorecards_title: "HAI/ Scale"
+scorecards_description: "These scorecards illustrate how human and AI contributions scale from HAI/0 to HAI/9."
 ---
 
 > *A New Creative Paradigm for Human / Artificial Intelligence*
