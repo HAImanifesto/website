@@ -1,6 +1,10 @@
 - label: EN
   url: "/"
-- label: PT
-  url: "/pt/"
 - label: FR
   url: "/fr/"
+- label: DE
+  url: "/de/"
+- label: ES
+  url: "/es/"
+- label: IT
+  url: "/it/"
