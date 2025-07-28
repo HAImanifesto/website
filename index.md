@@ -11,11 +11,11 @@ A new era of authorship has arrived. Most creators — novelists, designers, cod
 
 ## HAI/ Framework
 
-The HAI/ Framework provides a method for identifying, classifying, and communicating the involvement of artificial intelligence in the creation of a work.
+> The HAI/ Framework provides a method for identifying, classifying, and communicating the involvement of artificial intelligence in the creation of a work.
 
 Its goal is to make the degree of human–machine collaboration visible and understandable — both for those who create content and for those who evaluate, publish, or experience it. 
 
-It encourages creators to clearly state how AI tools were used, and invites publishers, institutions, and audiences to appreciate this transparency not only as context, but as something that enriches the authenticity, clarity, and meaning of the work itself.
+It encourages **creators** to clearly state how AI tools were used, and invites **publishers**, **institutions**, and **audiences** to appreciate this transparency not only as context, but as something that enriches the authenticity, clarity, and meaning of the work itself.
 
 The framework does not prescribe how AI should be used.
 It offers a structure for describing that use — openly, responsibly, and in context. 
