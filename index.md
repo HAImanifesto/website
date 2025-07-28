@@ -1,7 +1,8 @@
 ---
 title: The HAI/ Manifesto
 layout: manifesto
-description: The HAI/ Manifesto
+description: The HAI/ Manifesto 
+scorecards_description: You are invited to use the HAI/ Scorecards for your own creation
 ---
 
 > *A New Creative Paradigm for Human / Artificial Intelligence*
