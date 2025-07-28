@@ -9,13 +9,13 @@ scorecards_description: "These scorecards illustrate how human and AI contributi
 > *A New Creative Paradigm for Human / Artificial Intelligence*
 
 Authorship is evolving. Most creators — novelists, designers, coders, composers — already weave generative AI into their process, sketching storyboards, remixing beats, or colour-grading photos at machine speed. Yet no algorithm can feel doubt, pride or moral duty; that power remains human.
-**Keeping that living core visible — mapping where human and machine meet — is of utmost importance, so creators, publishers, and audiences stay oriented.**
+**Keeping that living core visible — mapping where human and machine meet — is of utmost importance, so creators, publishers, and audiences stay oriented.** 
+
+> The HAI/ Manifesto proposes a structured way to describe and disclose the role of artificial intelligence in creative work — openly, accurately, and in context.
 
 ## HAI/ Framework
 
-> The HAI/ Framework provides a method for identifying, classifying, and communicating the involvement of artificial intelligence in the creation of a work.
-
-Its goal is to make the degree of human–machine collaboration visible and understandable — both for those who create content and for those who evaluate, publish, or experience it. 
+The framework is a practical method for describing how artificial intelligence contributes to the creation of a work — making visible the degree and nature of human–machine collaboration.
 
 It encourages **creators** to clearly state how AI tools were used, and invites **publishers**, **institutions**, and **audiences** to appreciate this transparency not only as context, but as something that enriches the authenticity, clarity, and meaning of the work itself.
 
