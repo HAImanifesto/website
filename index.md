@@ -2,8 +2,6 @@
 title: The HAI/ Manifesto
 layout: manifesto
 description: The HAI/ Manifesto
-scorecards_title: "HAI/ Scale"
-scorecards_description: "These scorecards illustrate how human and AI contributions scale from HAI/0 to HAI/9."
 ---
 
 > *A New Creative Paradigm for Human / Artificial Intelligence*
@@ -38,3 +36,7 @@ The HAI/ Score is a **classification system**, supported by scorecards, that sig
 > The meaning of the score is always contextual. 
 
 Some situations — such as personal expression or educational evaluation — may call for minimal AI involvement. Others — such as technical, scientific, or analytical work — may benefit from more substantial support, especially when accuracy, consistency, or scale are priorities.
+
+## HAI/ Scale 
+
+The scorecards illustrate how human and AI contributions scale from HAI/0 to HAI/9 — providing creators with a reference for self-assessing their process, and offering publishers, institutions, or platforms a consistent way to understand and communicate the level of collaboration behind a work.
