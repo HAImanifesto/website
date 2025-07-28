@@ -2,9 +2,7 @@
 title: "HAI/6 - AI as autonomous drafter"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S6.svg"
-hi: 40
 hi_role: "prompt provider"
-ai: 60
 ai_role: "autonomous drafter"
 weight: 6
 ---

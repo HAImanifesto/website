@@ -30,11 +30,11 @@ bodyClass: "page-manifesto"
         <div class="scorecard-meta">
           {% assign score_name = card.title | split: " - " | first %}
           <h2 class="team-name"><a href="{{ card.url | relative_url }}">{{ score_name }}</a></h2>
-          {% if card.hi %}
-          <p class="team-description small">HI: {{ card.hi }}%{% if card.hi_role %} - {{ card.hi_role }}{% endif %}</p>
+          {% if card.hi_role %}
+          <p class="team-description small">HI Role: {{ card.hi_role }}</p>
           {% endif %}
-          {% if card.ai %}
-          <p class="team-description small">AI: {{ card.ai }}%{% if card.ai_role %} - {{ card.ai_role }}{% endif %}</p>
+          {% if card.ai_role %}
+          <p class="team-description small">AI Role: {{ card.ai_role }}</p>
           {% endif %}
         </div>
       </div>

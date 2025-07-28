@@ -2,9 +2,7 @@
 title: "HAI/1 - AI as proofreader"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S1.svg"
-hi: 90
 hi_role: "author"
-ai: 10
 ai_role: "proofreader"
 weight: 1
 ---

@@ -2,9 +2,7 @@
 title: "HAI/3 - AI as stylist"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S3.svg"
-hi: 70
 hi_role: "author"
-ai: 30
 ai_role: "stylist"
 weight: 3
 ---

@@ -2,9 +2,7 @@
 title: "HAI/9 - Fully AI-authored"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S9.svg"
-hi: 0
 hi_role: "none"
-ai: 100
 ai_role: "full author"
 weight: 9
 ---

@@ -2,9 +2,7 @@
 title: "HAI/7 - AI as lead author"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S7.svg"
-hi: 30
 hi_role: "curator"
-ai: 70
 ai_role: "lead author"
 weight: 7
 ---

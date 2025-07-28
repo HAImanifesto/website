@@ -2,9 +2,7 @@
 title: "HAI/2 - AI as verifier"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S2.svg"
-hi: 80
 hi_role: "author"
-ai: 20
 ai_role: "verifier"
 weight: 2
 ---

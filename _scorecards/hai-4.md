@@ -2,9 +2,7 @@
 title: "HAI/4 - AI as architect"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S4.svg"
-hi: 60
 hi_role: "originator"
-ai: 40
 ai_role: "architect"
 weight: 4
 ---

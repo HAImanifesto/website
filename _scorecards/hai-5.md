@@ -2,9 +2,7 @@
 title: "HAI/5 - AI as co-author"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S5.svg"
-hi: 50
 hi_role: "visionary"
-ai: 50
 ai_role: "co-author"
 weight: 5
 ---

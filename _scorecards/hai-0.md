@@ -2,9 +2,7 @@
 title: "HAI/0 - Fully human-authored"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S0.svg"
-hi: 100
 hi_role: "author"
-ai: 0
 ai_role: "none"
 weight: 0
 ---
