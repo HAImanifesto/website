@@ -24,10 +24,9 @@ It offers a structure for describing that use — openly, responsibly, and in co
 
 This framework is based on the acknowledgment that machines may contribute, but the human remains the source of intention, judgment, and responsibility — a foundation that gives rise to the following key principles:
 
-- **Human authorship is not optional.** It must be preserved, named, and visible.  
-- **AI contributions must be transparent.** We have a right to know how something was made.  
-- **Collaboration is layered.** HAI/ makes space for shared processes, without confusion about origin.
-- **Responsibility stays with people.** Decisions, interpretations, and impacts are human matters.
+1. **AI contributions must be transparent.** We have a right to know how something was made.  
+2. **Collaboration is layered.** HAI/ makes space for shared processes, without confusion about origin.
+3. **Responsibility stays with people.** Decisions, interpretations, and impacts are human matters.
 
 
 ## HAI/ Score
