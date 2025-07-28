@@ -4,11 +4,11 @@ title: 'HAI/ Manifesto'
 
 logo:
   mobile: "images/logo/hai-scorecard-mobile.svg"
-  mobile_height: "40px"
-  mobile_width: "40px"
+  mobile_height: "50px"
+  mobile_width: "50px"
   desktop: "images/logo/hai-scorecard.svg"
-  desktop_height: "40px"
-  desktop_width: "40px"
+  desktop_height: "50px"
+  desktop_width: "50px"
 
 home: 
   limit_services: 6
