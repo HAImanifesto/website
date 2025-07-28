@@ -21,38 +21,38 @@ bodyClass: "page-manifesto"
           {% endif %}
         </div>
       </div>
-    </div>
 
-<div class="container pt-6 pb-6">
-  <div class="row">
-    {% assign cards = site.scorecards | sort: "weight" %}
-    {% for card in cards %}
-    <div class="col-12 col-md-6 mb-3">
-      <div class="scorecard scorecard-summary d-flex align-items-center">
-        {% if card.image %}
-        <div class="scorecard-image">
-          <a href="{{ card.url | relative_url }}">
-            <img width="100" height="100" alt="{{ card.title }}" class="img-fluid mb-2" src="{{ card.image | relative_url }}" />
-          </a>
-        </div>
-        {% endif %}
-        <div class="scorecard-meta">
-          {% assign score_name = card.title | split: " - " | first %}
-          <h2 class="scorecard-name"><a href="{{ card.url | relative_url }}">{{ score_name }}</a></h2>
-          {% if card.hi_role %}
-          <p class="scorecard-description small">HI role: {{ card.hi_role }}</p>
-          {% endif %}
-          {% if card.ai_role %}
-          <p class="scorecard-description small">AI role: {{ card.ai_role }}</p>
-          {% endif %}
+      <div class="container pt-6 pb-6">
+        <div class="row">
+          {% assign cards = site.scorecards | sort: "weight" %}
+          {% for card in cards %}
+          <div class="col-12 col-md-6 mb-3">
+            <div class="scorecard scorecard-summary d-flex align-items-center">
+              {% if card.image %}
+              <div class="scorecard-image">
+                <a href="{{ card.url | relative_url }}">
+                  <img width="100" height="100" alt="{{ card.title }}" class="img-fluid mb-2" src="{{ card.image | relative_url }}" />
+                </a>
+              </div>
+              {% endif %}
+              <div class="scorecard-meta">
+                {% assign score_name = card.title | split: " - " | first %}
+                <h2 class="scorecard-name"><a href="{{ card.url | relative_url }}">{{ score_name }}</a></h2>
+                {% if card.hi_role %}
+                <p class="scorecard-description small">HI role: {{ card.hi_role }}</p>
+                {% endif %}
+                {% if card.ai_role %}
+                <p class="scorecard-description small">AI role: {{ card.ai_role }}</p>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+          {% endfor %}
         </div>
       </div>
+
+
     </div>
-    {% endfor %}
-  </div>
-</div>
-
-
   </div>
 </div>
 
