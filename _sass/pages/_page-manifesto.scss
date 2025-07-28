@@ -1,9 +1,9 @@
 .page-manifesto {
-  .team-summary {
+  .scorecard-summary {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    .team-image {
+    .scorecard-image {
       height: 60px;
       width: 60px;
       margin-right: 10px;
@@ -13,7 +13,7 @@
         width: 60px;
       }
     }
-    .team-meta {
+    .scorecard-meta {
       flex: 1;
       h2 {
         margin: 0;
@@ -28,7 +28,7 @@
         font-weight: 500;
       }
     }
-    .team-content {
+    .scorecard-content {
       margin-top: 20px;
       flex: 1 0 100%;
     }
