@@ -7,7 +7,7 @@ scorecards_description: You are invited to use the HAI/ Scorecards for your own 
 
 > *A New Creative Paradigm for Human / Artificial Intelligence*
 
-**Authorship is evolving.** Most creators — novelists, designers, coders, composers — already weave generative AI into their process, sketching storyboards, remixing beats, or colour-grading photos at machine speed. Yet no algorithm can feel doubt, pride or moral duty; that power remains human.
+**Authorship is evolving.** Most creators — novelists, designers, coders, composers — already weave generative AI into their process, sketching storyboards, remixing beats, or colour-grading photos at machine speed. 
 This Manifesto looks ahead to a near future in which AI will be present in almost every form of creative work — often invisibly. In that context, clearly identifying how a work was made will no longer be optional, but essential. Transparency about the “ingredients” of creation will be necessary for the healthy preservation of trust, meaning, and responsibility in a world of hybrid authorship.
 
 > The HAI/ Manifesto proposes a structured way to describe and disclose the role of artificial intelligence in creative work — openly, accurately, and in context.

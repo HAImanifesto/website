@@ -6,7 +6,7 @@ description: Das HAI/ Manifest
 
 > *Ein neues kreatives Paradigma für menschliche / künstliche Intelligenz*
 
-**Urheberschaft entwickelt sich weiter.** Die meisten Kreativen — Romanautoren, Designer, Programmierer, Komponisten — integrieren bereits generative KI in ihren Arbeitsprozess, skizzieren Storyboards, remixen Beats oder kolorieren Fotos mit maschineller Geschwindigkeit. Doch kein Algorithmus kann Zweifel, Stolz oder moralische Pflicht empfinden; diese Kraft bleibt menschlich.
+**Urheberschaft entwickelt sich weiter.** Die meisten Kreativen — Romanautoren, Designer, Programmierer, Komponisten — integrieren bereits generative KI in ihren Arbeitsprozess, skizzieren Storyboards, remixen Beats oder kolorieren Fotos mit maschineller Geschwindigkeit. 
 Dieses Manifest blickt in eine nahe Zukunft, in der KI in nahezu jeder Form kreativer Arbeit präsent sein wird — oft unsichtbar. In diesem Kontext wird es unerlässlich sein, klar zu kennzeichnen, wie ein Werk entstanden ist. Transparenz über die «Zutaten» der Erstellung wird notwendig sein, um Vertrauen, Sinn und Verantwortung in einer Welt hybrider Autorenschaft zu bewahren.
 
 > Das HAI/ Manifest bietet eine strukturierte Möglichkeit, die Rolle von künstlicher Intelligenz in kreativer Arbeit zu beschreiben und offenzulegen — offen, präzise und im Kontext.
