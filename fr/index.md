@@ -9,7 +9,7 @@ description: Le Manifeste HAI/
 La notion d'auteur évolue. La plupart des créateurs — romanciers, designers, développeurs, compositeurs — intègrent déjà l'IA générative dans leur processus, esquissant des storyboards, remixant des rythmes ou corrigeant des couleurs à la vitesse de la machine. Pourtant, aucun algorithme ne peut ressentir le doute, la fierté ou le devoir moral ; ce pouvoir reste humain.
 Ce Manifeste regarde vers un futur proche où l'IA sera présente dans presque toutes les formes de création — souvent de manière invisible. Dans ce contexte, identifier clairement comment une œuvre a été réalisée ne sera plus facultatif, mais essentiel. La transparence sur les « ingrédients » de la création sera nécessaire pour préserver sainement la confiance, le sens et la responsabilité dans un monde d'autorat hybride.
 
-> Le Manifeste HAI/ propose une méthode structurée pour décrire et divulguer le rôle de l'intelligence artificielle dans la création — ouvertement, précisément et **dans son contexte**.
+> Le Manifeste HAI/ propose une méthode structurée pour décrire et divulguer le rôle de l'intelligence artificielle dans la création — ouvertement, précisément et dans son contexte.
 
 Il ne revient pas à ce manifeste de mettre en place des systèmes de récompense ou de coercition. Il n’a pas pour but d’encourager la divulgation par des avantages ni de l’imposer par des contraintes. Le Manifeste HAI/ est un appel, le Cadre HAI/ un ensemble de principes, et le Score HAI/ un outil d’orientation et de transparence.
 
