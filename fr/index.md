@@ -20,6 +20,7 @@ Le cadre est une méthode pratique pour décrire comment l'intelligence artifici
 Il encourage les **créateurs** à indiquer clairement comment les outils d’IA ont été utilisés et invite les **éditeurs**, **institutions** et **publics** à considérer cette transparence non seulement comme un contexte, mais comme un enrichissement de l’authenticité, de la clarté et du sens de l’œuvre.
 
 > Le cadre ne prescrit pas la manière d'utiliser l'IA. Il offre une structure pour décrire cet usage — ouvertement, de manière responsable et contextualisée.
+
 On pourrait objecter que, dans la pratique, les créateurs éviteront de révéler leur usage de l’IA — par habitude, incertitude ou silence stratégique. Mais le besoin de transparence ne dépend pas d'une honnêteté parfaite. Il reflète une mutation structurelle de l'autorat qu'il faut prendre en compte. Même si la divulgation est d’abord inégale, l’existence d’un cadre partagé — et des attentes culturelles qu’il établit — est essentielle. Reconnaître la contribution des machines n'est pas qu'une question de conformité, mais d'intégrité créative.
 
 ## HAI/ Principles

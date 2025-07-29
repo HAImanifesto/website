@@ -20,6 +20,7 @@ Das Rahmenwerk ist eine praxisnahe Methode, um zu beschreiben, wie künstliche I
 Es fordert **Kreative** dazu auf, klar anzugeben, wie KI-Werkzeuge eingesetzt wurden, und lädt **Verlage**, **Institutionen** und **Publikum** ein, diese Transparenz nicht nur als Kontext zu verstehen, sondern als Bereicherung der Authentizität, Klarheit und Bedeutung des Werks.
 
 > Das Framework schreibt nicht vor, wie KI eingesetzt werden muss. Es bietet eine Struktur, um diesen Einsatz offen, verantwortungsvoll und im Kontext zu beschreiben.
+
 Man könnte einwenden, dass Kreative in der Praxis die Nutzung von KI verschweigen werden — sei es aus Gewohnheit, Unsicherheit oder strategischem Schweigen. Doch das Bedürfnis nach Transparenz setzt keine vollkommene Ehrlichkeit voraus. Es spiegelt einen strukturellen Wandel in der Autorenschaft wider, dem begegnet werden muss. Auch wenn die Offenlegung zunächst uneinheitlich erfolgt, ist die Existenz eines gemeinsamen Rahmens — und der kulturellen Erwartung, die er schafft — entscheidend. Das Anerkennen maschineller Beiträge ist nicht nur eine Frage der Compliance, sondern der kreativen Integrität.
 
 ## HAI/ Prinzipien
