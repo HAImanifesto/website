@@ -6,10 +6,12 @@ description: Le Manifeste HAI/
 
 > *Un nouveau paradigme créatif pour l'intelligence humaine / artificielle*
 
-La notion d'auteur évolue. La plupart des créateurs — romanciers, designers, développeurs, compositeurs — intègrent déjà l'IA générative dans leur processus, esquissant des storyboards, remixant des rythmes ou corrigeant des couleurs à la vitesse de la machine. Pourtant, aucun algorithme ne peut ressentir le doute, la fierté ou le devoir moral ; ce pouvoir reste humain.  
-**Garder ce noyau vivant visible — montrer où l'humain et la machine se rencontrent — est primordial pour que créateurs, éditeurs et publics restent orientés.**
+La notion d'auteur évolue. La plupart des créateurs — romanciers, designers, développeurs, compositeurs — intègrent déjà l'IA générative dans leur processus, esquissant des storyboards, remixant des rythmes ou corrigeant des couleurs à la vitesse de la machine. Pourtant, aucun algorithme ne peut ressentir le doute, la fierté ou le devoir moral ; ce pouvoir reste humain.
+Ce Manifeste regarde vers un futur proche où l'IA sera présente dans presque toutes les formes de création — souvent de manière invisible. Dans ce contexte, identifier clairement comment une œuvre a été réalisée ne sera plus facultatif, mais essentiel. La transparence sur les « ingrédients » de la création sera nécessaire pour préserver sainement la confiance, le sens et la responsabilité dans un monde d'autorat hybride.
 
 > Le Manifeste HAI/ propose une méthode structurée pour décrire et divulguer le rôle de l'intelligence artificielle dans la création — ouvertement, précisément et **dans son contexte**.
+
+Il ne revient pas à ce manifeste de mettre en place des systèmes de récompense ou de coercition. Il n’a pas pour but d’encourager la divulgation par des avantages ni de l’imposer par des contraintes. Le Manifeste HAI/ est un appel, le Cadre HAI/ un ensemble de principes, et le Score HAI/ un outil d’orientation et de transparence.
 
 ## HAI/ Framework
 
@@ -17,8 +19,8 @@ Le cadre est une méthode pratique pour décrire comment l'intelligence artifici
 
 Il encourage les **créateurs** à indiquer clairement comment les outils d’IA ont été utilisés et invite les **éditeurs**, **institutions** et **publics** à considérer cette transparence non seulement comme un contexte, mais comme un enrichissement de l’authenticité, de la clarté et du sens de l’œuvre.
 
-Le cadre ne prescrit pas la manière d'utiliser l'IA.
-Il offre une structure pour décrire cet usage — ouvertement, de manière responsable et contextualisée.
+> Le cadre ne prescrit pas la manière d'utiliser l'IA. Il offre une structure pour décrire cet usage — ouvertement, de manière responsable et contextualisée.
+On pourrait objecter que, dans la pratique, les créateurs éviteront de révéler leur usage de l’IA — par habitude, incertitude ou silence stratégique. Mais le besoin de transparence ne dépend pas d'une honnêteté parfaite. Il reflète une mutation structurelle de l'autorat qu'il faut prendre en compte. Même si la divulgation est d’abord inégale, l’existence d’un cadre partagé — et des attentes culturelles qu’il établit — est essentielle. Reconnaître la contribution des machines n'est pas qu'une question de conformité, mais d'intégrité créative.
 
 ## HAI/ Principles
 

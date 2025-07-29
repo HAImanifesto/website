@@ -6,10 +6,12 @@ description: Il Manifesto HAI/
 
 > *Un nuovo paradigma creativo per l'intelligenza umana / artificiale*
 
-Il concetto di autorialità si sta evolvendo. La maggior parte dei creatori — romanzieri, designer, programmatori, compositori — integra già l’IA generativa nel proprio processo, abbozzando storyboard, remixando beat o correggendo i colori delle foto a velocità di macchina. Eppure nessun algoritmo può provare dubbio, orgoglio o senso del dovere morale; quel potere resta umano.  
-**Mantenere visibile quel nucleo vitale — mostrando dove l’uomo e la macchina si incontrano — è di fondamentale importanza affinché creatori, editori e pubblico rimangano orientati.**
+Il concetto di autorialità si sta evolvendo. La maggior parte dei creatori — romanzieri, designer, programmatori, compositori — integra già l’IA generativa nel proprio processo, abbozzando storyboard, remixando beat o correggendo i colori delle foto a velocità di macchina. Eppure nessun algoritmo può provare dubbio, orgoglio o senso del dovere morale; quel potere resta umano.
+Questo Manifesto guarda a un futuro prossimo in cui l’IA sarà presente in quasi ogni forma di lavoro creativo — spesso in modo invisibile. In tale contesto, identificare chiaramente come è stata realizzata un’opera non sarà più facoltativo, ma essenziale. La trasparenza sugli “ingredienti” della creazione sarà necessaria per preservare in modo sano la fiducia, il significato e la responsabilità in un mondo di autorialità ibrida.
 
 > Il Manifesto HAI/ propone un modo strutturato di descrivere e divulgare il ruolo dell’intelligenza artificiale nelle opere creative — apertamente, con precisione e nel contesto.
+
+Non è compito di questo manifesto creare sistemi di ricompensa o coercizione. Non mira a incentivare la divulgazione tramite vantaggi né a imporla attraverso vincoli. Il Manifesto HAI/ è un appello, il Quadro HAI/ un insieme di principi e il Punteggio HAI/ uno strumento di orientamento e trasparenza.
 
 ## Quadro HAI/
 
@@ -17,8 +19,8 @@ Il quadro è un metodo pratico per descrivere come l’intelligenza artificiale 
 
 Incoraggia i **creatori** a indicare chiaramente come sono stati utilizzati gli strumenti di IA e invita **editori**, **istituzioni** e **pubblico** ad apprezzare tale trasparenza non solo come contesto, ma come qualcosa che arricchisce l’autenticità, la chiarezza e il significato dell’opera.
 
-Il quadro non prescrive come debba essere impiegata l’IA.
-Offre una struttura per descriverne l’utilizzo — apertamente, responsabilmente e con contesto.
+> Il quadro non prescrive come debba essere impiegata l’IA. Offre una struttura per descriverne l’utilizzo — apertamente, responsabilmente e con contesto.
+Si potrebbe sostenere che, in pratica, i creatori eviteranno di dichiarare l’uso dell’IA — per abitudine, incertezza o silenzio strategico. Ma la necessità di trasparenza non si basa sulla perfetta onestà. Riflette un cambiamento strutturale nell’autorialità che deve essere affrontato. Anche se la divulgazione è inizialmente disomogenea, l’esistenza di un quadro condiviso — e l’aspettativa culturale che esso stabilisce — è essenziale. Riconoscere i contributi della macchina non è solo una questione di conformità, ma di integrità creativa.
 
 ## Principi HAI/
 

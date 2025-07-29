@@ -8,9 +8,11 @@ scorecards_description: You are invited to use the HAI/ Scorecards for your own 
 > *A New Creative Paradigm for Human / Artificial Intelligence*
 
 Authorship is evolving. Most creators — novelists, designers, coders, composers — already weave generative AI into their process, sketching storyboards, remixing beats, or colour-grading photos at machine speed. Yet no algorithm can feel doubt, pride or moral duty; that power remains human.
-**Keeping that living core visible — mapping where human and machine meet — is of utmost importance, so creators, publishers, and audiences stay oriented.** 
+This Manifesto looks ahead to a near future in which AI will be present in almost every form of creative work — often invisibly. In that context, clearly identifying how a work was made will no longer be optional, but essential. Transparency about the “ingredients” of creation will be necessary for the healthy preservation of trust, meaning, and responsibility in a world of hybrid authorship.
 
 > The HAI/ Manifesto proposes a structured way to describe and disclose the role of artificial intelligence in creative work — openly, accurately, and in context.
+
+It is not the role of this manifesto to create systems of reward or coercion. It does not aim to incentivize disclosure through benefits, nor to enforce it through constraints. The HAI/ Manifesto is a call, the HAI/ Framework a set of principles, and the HAI/ Score a tool for orientation and transparency.
 
 ## HAI/ Framework
 
@@ -18,8 +20,8 @@ The framework is a practical method for describing how artificial intelligence c
 
 It encourages **creators** to clearly state how AI tools were used, and invites **publishers**, **institutions**, and **audiences** to appreciate this transparency not only as context, but as something that enriches the authenticity, clarity, and meaning of the work itself.
 
-The framework does not prescribe how AI should be used.
-It offers a structure for describing that use — openly, responsibly, and in context. 
+> The framework does not prescribe how AI should be used. It offers a structure for describing that use — openly, responsibly, and in context.
+It may be argued that creators will, in practice, avoid disclosing their use of AI — whether out of habit, uncertainty, or strategic silence. But the need for transparency does not rely on perfect honesty. It reflects a structural shift in authorship that must be addressed. Even if disclosure is uneven at first, the existence of a shared framework — and the cultural expectation it establishes — is essential. Acknowledging machine contributions is not only a question of compliance, but of creative integrity.
 
 ## HAI/ Principles
 
