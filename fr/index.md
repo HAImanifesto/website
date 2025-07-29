@@ -6,10 +6,10 @@ description: Le Manifeste HAI/
 
 > *Un nouveau paradigme créatif pour l'intelligence humaine / artificielle*
 
-La notion d'auteur évolue. La plupart des créateurs — romanciers, designers, codeurs, compositeurs — intègrent déjà l'IA générative dans leur processus, esquissant des storyboards, remixant des rythmes ou corrigeant des couleurs à la vitesse de la machine. Pourtant, aucun algorithme ne peut ressentir le doute, la fierté ou le devoir moral ; ce pouvoir reste humain.  
-**Garder ce noyau vivant visible — cartographier où l'humain et la machine se rencontrent — est primordial pour que créateurs, éditeurs et publics restent orientés.**
+La notion d'auteur évolue. La plupart des créateurs — romanciers, designers, développeurs, compositeurs — intègrent déjà l'IA générative dans leur processus, esquissant des storyboards, remixant des rythmes ou corrigeant des couleurs à la vitesse de la machine. Pourtant, aucun algorithme ne peut ressentir le doute, la fierté ou le devoir moral ; ce pouvoir reste humain.  
+**Garder ce noyau vivant visible — montrer où l'humain et la machine se rencontrent — est primordial pour que créateurs, éditeurs et publics restent orientés.**
 
-> Le manifeste HAI/ propose une méthode structurée pour décrire et divulguer le rôle de l'intelligence artificielle dans la création — ouvertement, précisément et avec contexte.
+> Le Manifeste HAI/ propose une méthode structurée pour décrire et divulguer le rôle de l'intelligence artificielle dans la création — ouvertement, précisément et **dans son contexte**.
 
 ## HAI/ Framework
 
