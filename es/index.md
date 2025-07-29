@@ -6,10 +6,12 @@ description: El Manifiesto HAI/
 
 > *Un nuevo paradigma creativo para la inteligencia humana / artificial*
 
-La autoría está evolucionando. La mayoría de los creadores — novelistas, diseñadores, programadores, compositores — ya integran la IA generativa en su proceso, esbozando guiones gráficos, remezclando ritmos o ajustando el color de las fotos a velocidad de máquina. Sin embargo, ningún algoritmo puede sentir duda, orgullo o deber moral; ese poder sigue siendo humano.  
-**Mantener visible ese núcleo vivo — mostrar dónde se encuentran el ser humano y la máquina — es de suma importancia para que creadores, editores y públicos conserven la orientación.**
+La autoría está evolucionando. La mayoría de los creadores — novelistas, diseñadores, programadores, compositores — ya integran la IA generativa en su proceso, esbozando guiones gráficos, remezclando ritmos o ajustando el color de las fotos a velocidad de máquina. Sin embargo, ningún algoritmo puede sentir duda, orgullo o deber moral; ese poder sigue siendo humano.
+Este Manifiesto mira hacia un futuro cercano en el que la IA estará presente en casi todas las formas de trabajo creativo — a menudo de forma invisible. En ese contexto, identificar claramente cómo se hizo una obra dejará de ser opcional para convertirse en algo esencial. La transparencia sobre los “ingredientes” de la creación será necesaria para preservar de forma sana la confianza, el sentido y la responsabilidad en un mundo de autoría híbrida.
 
 > El Manifiesto HAI/ propone una forma estructurada de describir y revelar el papel de la inteligencia artificial en la creación — de manera abierta, precisa y contextual.
+
+No es función de este manifiesto crear sistemas de recompensa o coacción. No pretende incentivar la divulgación mediante beneficios ni imponerla a través de restricciones. El Manifiesto HAI/ es un llamamiento, el Marco HAI/ un conjunto de principios y la Puntuación HAI/ una herramienta de orientación y transparencia.
 
 ## Marco HAI/
 
@@ -17,8 +19,8 @@ El marco es un método práctico para describir cómo la inteligencia artificial
 
 Anima a los **creadores** a declarar con claridad cómo se usaron las herramientas de IA, e invita a **editores**, **instituciones** y **públicos** a valorar esa transparencia no solo como contexto, sino como algo que enriquece la autenticidad, la claridad y el sentido de la obra.
 
-El marco no prescribe cómo debe usarse la IA.
-Ofrece una estructura para describir ese uso — de forma abierta, responsable y contextual.
+> El marco no prescribe cómo debe usarse la IA. Ofrece una estructura para describir ese uso — de forma abierta, responsable y contextual.
+Se podría argumentar que, en la práctica, los creadores evitarán declarar su uso de la IA — ya sea por costumbre, incertidumbre o silencio estratégico. Pero la necesidad de transparencia no depende de una honestidad perfecta. Refleja un cambio estructural en la autoría que debe abordarse. Aunque la divulgación sea desigual al principio, la existencia de un marco compartido — y de la expectativa cultural que establece — es esencial. Reconocer las aportaciones de la máquina no es solo una cuestión de cumplimiento, sino de integridad creativa.
 
 ## Principios HAI/
 
