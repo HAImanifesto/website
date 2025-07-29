@@ -7,7 +7,7 @@ description: Il Manifesto HAI/
 > *Un nuovo paradigma creativo per l'intelligenza umana / artificiale*
 
 Il concetto di autorialità si sta evolvendo. La maggior parte dei creatori — romanzieri, designer, programmatori, compositori — integra già l’IA generativa nel proprio processo, abbozzando storyboard, remixando beat o correggendo i colori delle foto a velocità di macchina. Eppure nessun algoritmo può provare dubbio, orgoglio o senso del dovere morale; quel potere resta umano.  
-**Mantenere visibile quel nucleo vitale — **mostrando** dove l’uomo e la macchina si incontrano — è di fondamentale importanza affinché creatori, editori e pubblico rimangano orientati.**
+**Mantenere visibile quel nucleo vitale — mostrando dove l’uomo e la macchina si incontrano — è di fondamentale importanza affinché creatori, editori e pubblico rimangano orientati.**
 
 > Il Manifesto HAI/ propone un modo strutturato di descrivere e divulgare il ruolo dell’intelligenza artificiale nelle opere creative — apertamente, con precisione e nel contesto.
 

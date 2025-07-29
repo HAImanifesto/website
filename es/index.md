@@ -7,7 +7,7 @@ description: El Manifiesto HAI/
 > *Un nuevo paradigma creativo para la inteligencia humana / artificial*
 
 La autoría está evolucionando. La mayoría de los creadores — novelistas, diseñadores, programadores, compositores — ya integran la IA generativa en su proceso, esbozando guiones gráficos, remezclando ritmos o ajustando el color de las fotos a velocidad de máquina. Sin embargo, ningún algoritmo puede sentir duda, orgullo o deber moral; ese poder sigue siendo humano.  
-**Mantener visible ese núcleo vivo — **mostrar** dónde se encuentran el ser humano y la máquina — es de suma importancia para que creadores, editores y públicos conserven la orientación.**
+**Mantener visible ese núcleo vivo — mostrar dónde se encuentran el ser humano y la máquina — es de suma importancia para que creadores, editores y públicos conserven la orientación.**
 
 > El Manifiesto HAI/ propone una forma estructurada de describir y revelar el papel de la inteligencia artificial en la creación — de manera abierta, precisa y contextual.
 
@@ -30,7 +30,7 @@ Este marco se basa en el reconocimiento de que las máquinas pueden contribuir, 
 
 ## Puntuación HAI/
 
-El HAI/ Score es un **sistema de clasificación**, respaldado por **fichas** de puntuación, que señala el grado y la naturaleza de la intervención de la IA en la creación de cualquier obra — novela, secuencia de película, partitura orquestal, código fuente — clasificándola desde totalmente humana hasta totalmente generada por máquina con niveles distintos que reflejan el equilibrio de la autoría.
+La Puntuación HAI/ es un **sistema de clasificación**, respaldado por **fichas** de puntuación, que señala el grado y la naturaleza de la intervención de la IA en la creación de cualquier obra — novela, secuencia de película, partitura orquestal, código fuente — clasificándola desde totalmente humana hasta totalmente generada por máquina con niveles distintos que reflejan el equilibrio de la autoría.
 
 > El significado de la puntuación siempre depende del contexto.
 

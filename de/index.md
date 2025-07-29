@@ -6,14 +6,14 @@ description: Das HAI/ Manifest
 
 > *Ein neues kreatives Paradigma für menschliche / künstliche Intelligenz*
 
-Urheberschaft entwickelt sich weiter. Die meisten Kreative — Romanautoren, Designer, Programmierer, Komponisten — **in ihren Arbeitsprozess integrieren**, skizzieren Storyboards, remixen Beats oder kolorieren Fotos **mit maschineller Geschwindigkeit**. Doch kein Algorithmus kann Zweifel, Stolz oder moralische Pflicht empfinden; diese Kraft bleibt menschlich.  
+Urheberschaft entwickelt sich weiter. Die meisten **Kreativen** — Romanautoren, Designer, Programmierer, Komponisten — **integrieren bereits generative KI in ihren Arbeitsprozess**, skizzieren Storyboards, remixen Beats oder kolorieren Fotos **mit maschineller Geschwindigkeit**. Doch kein Algorithmus kann Zweifel, Stolz oder moralische Pflicht empfinden; diese Kraft bleibt menschlich.  
 **Diesen lebendigen Kern sichtbar zu halten — und aufzuzeigen, wo Mensch und Maschine sich begegnen — ist von größter Bedeutung, damit Kreative, Verleger und Publikum die Orientierung behalten.**
 
 > Das HAI/ Manifest bietet eine strukturierte Möglichkeit, die Rolle von künstlicher Intelligenz in kreativer Arbeit zu beschreiben und offenzulegen — offen, präzise und im Kontext.
 
 ## HAI/ Rahmenwerk
 
-Das Framework ist eine praxisnahe Methode, um zu beschreiben, wie künstliche Intelligenz zur Entstehung eines Werks beiträgt — und macht den Grad sowie die Art der Mensch‑Maschine‑Zusammenarbeit sichtbar.
+Das Rahmenwerk ist eine praxisnahe Methode, um zu beschreiben, wie künstliche Intelligenz zur Entstehung eines Werks beiträgt — und macht den Grad sowie die Art der Mensch‑Maschine‑Zusammenarbeit sichtbar.
 
 Es fordert **Kreative** dazu auf, klar anzugeben, wie KI-Werkzeuge eingesetzt wurden, und lädt **Verlage**, **Institutionen** und **Publikum** ein, diese Transparenz nicht nur als Kontext zu verstehen, sondern als Bereicherung der Authentizität, Klarheit und Bedeutung des Werks.
 
