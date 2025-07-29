@@ -19,7 +19,7 @@ El marco es un método práctico para describir cómo la inteligencia artificial
 
 Anima a los **creadores** a declarar con claridad cómo se usaron las herramientas de IA, e invita a **editores**, **instituciones** y **públicos** a valorar esa transparencia no solo como contexto, sino como algo que enriquece la autenticidad, la claridad y el sentido de la obra.
 
-> El marco no prescribe cómo debe usarse la IA. Ofrece una estructura para describir ese uso — de forma abierta, responsable y contextual.
+> El Marco HAI/ no prescribe cómo debe usarse la IA. Ofrece una estructura para describir ese uso — de forma abierta, responsable y contextual.
 
 Se podría argumentar que, en la práctica, los creadores evitarán declarar su uso de la IA — ya sea por costumbre, incertidumbre o silencio estratégico. Pero la necesidad de transparencia no depende de una honestidad perfecta. Refleja un cambio estructural en la autoría que debe abordarse. Aunque la divulgación sea desigual al principio, la existencia de un marco compartido — y de la expectativa cultural que establece — es esencial. Reconocer las aportaciones de la máquina no es solo una cuestión de cumplimiento, sino de integridad creativa.
 

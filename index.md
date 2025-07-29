@@ -20,7 +20,7 @@ The framework is a practical method for describing how artificial intelligence c
 
 It encourages **creators** to clearly state how AI tools were used, and invites **publishers**, **institutions**, and **audiences** to appreciate this transparency not only as context, but as something that enriches the authenticity, clarity, and meaning of the work itself.
 
-> The framework does not prescribe how AI should be used. It offers a structure for describing that use — openly, responsibly, and in context.
+> The HAI/ Framework does not prescribe how AI should be used. It offers a structure for describing that use — openly, responsibly, and in context.
 
 It may be argued that creators will, in practice, avoid disclosing their use of AI — whether out of habit, uncertainty, or strategic silence. But the need for transparency does not rely on perfect honesty. It reflects a structural shift in authorship that must be addressed. Even if disclosure is uneven at first, the existence of a shared framework — and the cultural expectation it establishes — is essential. Acknowledging machine contributions is not only a question of compliance, but of creative integrity.
 

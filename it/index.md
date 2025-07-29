@@ -19,7 +19,8 @@ Il quadro è un metodo pratico per descrivere come l’intelligenza artificiale 
 
 Incoraggia i **creatori** a indicare chiaramente come sono stati utilizzati gli strumenti di IA e invita **editori**, **istituzioni** e **pubblico** ad apprezzare tale trasparenza non solo come contesto, ma come qualcosa che arricchisce l’autenticità, la chiarezza e il significato dell’opera.
 
-> Il quadro non prescrive come debba essere impiegata l’IA. Offre una struttura per descriverne l’utilizzo — apertamente, responsabilmente e con contesto.
+> Il Quadro HAI/ non prescrive come debba essere impiegata l’IA. Offre una struttura per descriverne l’utilizzo — apertamente, responsabilmente e con contesto. 
+
 Si potrebbe sostenere che, in pratica, i creatori eviteranno di dichiarare l’uso dell’IA — per abitudine, incertezza o silenzio strategico. Ma la necessità di trasparenza non si basa sulla perfetta onestà. Riflette un cambiamento strutturale nell’autorialità che deve essere affrontato. Anche se la divulgazione è inizialmente disomogenea, l’esistenza di un quadro condiviso — e l’aspettativa culturale che esso stabilisce — è essenziale. Riconoscere i contributi della macchina non è solo una questione di conformità, ma di integrità creativa.
 
 ## Principi HAI/
