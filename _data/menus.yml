@@ -2,6 +2,9 @@ main:
   - name: "Manifesto"
     url: "/"
     weight: 1
+  - name: "Studies"
+    url: "/studies/"
+    weight: 90
   - name: "Get Involved"
     url: "/get-involved/"
     weight: 99
