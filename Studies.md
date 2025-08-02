@@ -5,6 +5,8 @@ description: Supporting Studies
 permalink: /studies/
 ---
 
+> Disclaimer: The HAI/ Manifesto is entirely independent of the studies presented and references their findings solely to inform its conceptual development.
+
 ### Studies supporting “AI contributions must be transparent”
 
 - **[Lessons learned: Transparency around using AI needs to be specific to maintain trust](https://hsph.harvard.edu/health-communication/news/lessons-learned-transparency-around-using-ai-needs-to-be-specific-to-maintain-trust/){:target="_blank"}** – [Source](https://hsph.harvard.edu/health-communication/news/lessons-learned-transparency-around-using-ai-needs-to-be-specific-to-maintain-trust/){:target="_blank"}  
