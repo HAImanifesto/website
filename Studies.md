@@ -1,7 +1,7 @@
 ---
-title: Related Studies
+title: Supporting Studies
 layout: page
-description: Related Studies
+description: Supporting Studies
 permalink: /studies/
 ---
 
