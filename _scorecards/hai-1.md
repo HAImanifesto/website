@@ -1,16 +1,16 @@
 ---
-title: "HAI/1 - AI as Proofreader"
+title: "HAI/1 - AI as Polisher"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S1.svg"
 hi_role: "author"
-ai_role: "proofreader"
+ai_role: "polisher"
 weight: 1
 ---
 
 ![HAI Score 1](/assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S1.svg){: width="100" height="100" }
 
 ## Structure: 
-**Human Intelligence:** The entire content is conceived, written, and shaped by the human author. Structure, arguments, style, and tone are fully determined by human intention.\
+**Human Intelligence:** The entire content is conceived, designed, and shaped by the human author. Structure, arguments, style, and tone are fully determined by human intention.\
 **Artificial Intelligence:** Minimal surface-level intervention. AI is used solely for correcting surface-level technical errors (e.g., spelling in text, frame-rate glitches in video, noise pops in audio, typos in code) — without influencing the meaning, structure, or voice of the message.
 
 ## Description:
