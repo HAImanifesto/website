@@ -63,8 +63,16 @@
       }
       &.cta {
         a {
-          font-weight: bold;
-          color: $secondary;
+          font-weight: normal;
+          background: $secondary;
+          color: $primary;
+          border-radius: 4px;
+          padding: 6px 12px;
+          display: inline-block;
+          &:hover {
+            background-color: lighten($secondary, 10%);
+            opacity: 1;
+          }
         }
       }
     }
