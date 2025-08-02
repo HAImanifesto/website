@@ -6,7 +6,7 @@ description: Get Involved
 
 > *The HAI/ Manifesto is a public call — and it needs public voices.* 
 
-If you believe in transparency, integrity, and clarity in the age of human–AI collaboration, **take action now**. Whether you're a creator, publisher, academic, technologist, or policymaker, your support matters — and it starts with one of the simple steps below.
+If you believe in transparency, integrity, and clarity in the age of human–AI collaboration, **take action now**. Whether you're a creator, publisher, academic, technologist, or policymaker, **your support matters** — and it starts with one of the simple steps below.
 
 ## 1. Take Action
 
