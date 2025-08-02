@@ -20,8 +20,8 @@ Pick one or more of the following:
 ## 2. Tell Us What You Did
 
 We want to showcase real-world support and action. 
-After you've taken one or more steps, 
-**Email us** at HAImanifesto.org@gmail.com with:
+After you've taken one or more steps,\
+**Email us** at *HAImanifesto.org@gmail.com* with:
 - **A short description** of your action
 - **A public link** (to your site, article, repository, social post, etc.)
 
