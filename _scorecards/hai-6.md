@@ -10,7 +10,7 @@ weight: 6
 ![HAI Score 6](/assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S6.svg){: width="100" height="100" }
 
 ## Structure:
-**Human Intelligence:** The human initiates or oversees the process, possibly defining the topic, tone, or purpose. Human involvement may include prompt writing, selective editing, or curating from multiple AI outputs — but not full authorship.
+**Human Intelligence:** The human initiates or oversees the process, possibly defining the topic, tone, or purpose. Human involvement may include prompt writing, selective editing, or curating from multiple AI outputs — but not full authorship.\
 **Artificial Intelligence:** produces the majority of the work (e.g., imagery, code, audio, or text) from prompts or parameter sets, often in full sections or drafts, which are either lightly edited or selectively compiled by the human.
 
 ## Description:

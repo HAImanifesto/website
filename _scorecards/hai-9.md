@@ -10,8 +10,8 @@ weight: 9
 ![HAI Score 9](/assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S9.svg){: width="100" height="100" }
 
 ## Structure:
-**Human Intelligence:** None. No human is involved at any stage of the creative process — not in initiating, prompting, supervising, selecting, or publishing the output.
-Artificial Intelligence: Full authorship. The AI autonomously initiates, generates, and finalizes the work without human direction, intervention, or review.
+**Human Intelligence:** None. No human is involved at any stage of the creative process — not in initiating, prompting, supervising, selecting, or publishing the output.\
+**Artificial Intelligence:** Full authorship. The AI autonomously initiates, generates, and finalizes the work without human direction, intervention, or review.
 
 ## Description:
 HAI/9 denotes a work created entirely by machines, without any human touch. The AI system both triggers and completes the generation, acting independently of human presence or intention. This includes AI systems embedded in autonomous processes, running continuously or reactively, producing outputs without user prompts or manual oversight. 

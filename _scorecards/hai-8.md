@@ -10,7 +10,7 @@ weight: 8
 ![HAI Score 8](/assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S8.svg){: width="100" height="100" }
 
 ## Structure:
-**Human Intelligence:** None in the content creation process. The human provides no creative input, prompt, or supervision during the generation. If present, the human’s role is limited to initiating the system or triggering automated output without influencing what is produced.
+**Human Intelligence:** None in the content creation process. The human provides no creative input, prompt, or supervision during the generation. If present, the human’s role is limited to initiating the system or triggering automated output without influencing what is produced.\
 **Artificial Intelligence:** Independently generates the work. The AI produces all content — including structure, ideas, and language — with no real-time human involvement or prompt refinement.
 
 ## Description:

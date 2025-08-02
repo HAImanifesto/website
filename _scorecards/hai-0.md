@@ -10,7 +10,7 @@ weight: 0
 ![HAI Score 0](/assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S0.svg){: width="100" height="100" }
 
 ## Structure
-**Human Intelligence:** Complete authorship. Every idea, structure, and creative element originates from the human creator, who fully guides the process from concept to completion.
+**Human Intelligence:** Complete authorship. Every idea, structure, and creative element originates from the human creator, who fully guides the process from concept to completion.\
 **Artificial Intelligence:** None. No AI tools — generative, assistive, or suggestive — are used at any stage. Only basic utilities such as a keyboard, word processor, or spellcheck may be present, without contributing meaningfully to the content.
 
 ## Description:

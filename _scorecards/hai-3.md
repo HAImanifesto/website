@@ -10,7 +10,7 @@ weight: 3
 ![HAI Score 3](/assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S3.svg){: width="100" height="100" }
 
 ## Structure:
-**Human Intelligence:** The content, structure, and message are developed and authored by the human. The core meaning, arguments, and creative direction remain entirely human-driven.
+**Human Intelligence:** The content, structure, and message are developed and authored by the human. The core meaning, arguments, and creative direction remain entirely human-driven.\
 **Artificial Intelligence:** Used to refine expression. AI refines expression (e.g., re-lights an image, smooths a voice-over, rephrases dialogue) to improve clarity, tone, or flow — without altering the intended meaning or introducing new ideas.
 
 ## Description:

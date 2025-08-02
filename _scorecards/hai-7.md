@@ -10,7 +10,7 @@ weight: 7
 ![HAI Score 7](/assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S7.svg){: width="100" height="100" }
 
 ## Structure: 
-**Human Intelligence:** Minimal input. The human defines a general intention or provides a basic prompt but does not shape, guide, or substantially edit the result. The human may choose from outputs or approve one for use, but is not actively involved in authorship.
+**Human Intelligence:** Minimal input. The human defines a general intention or provides a basic prompt but does not shape, guide, or substantially edit the result. The human may choose from outputs or approve one for use, but is not actively involved in authorship.\
 **Artificial Intelligence:** Generates the entire content or nearly all of it. AI determines structure, language, tone, and flow based on initial input. Any human contribution is marginal and does not affect the core of the work.
 
 ## Description:

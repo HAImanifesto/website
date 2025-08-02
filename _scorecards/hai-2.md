@@ -10,7 +10,7 @@ weight: 2
 ![HAI Score 2](/assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S2.svg){: width="100" height="100" }
 
 ## Structure:
-**Human Intelligence:** The full content, structure, and formulation are created by the human author. Ideas, arguments, and tone are the result of independent human reasoning and composition.
+**Human Intelligence:** The full content, structure, and formulation are created by the human author. Ideas, arguments, and tone are the result of independent human reasoning and composition.\
 **Artificial Intelligence:** Limited to reviewing clarity, coherence, factual or technical consistency (e.g., colour-profile mismatches, audio clipping, logical bugs). AI may highlight issues, flag ambiguities, or suggest areas to reconsider — but does not write, rewrite, or restructure content.
 
 ## Description:
