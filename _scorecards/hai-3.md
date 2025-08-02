@@ -11,7 +11,7 @@ weight: 3
 
 ## Structure:
 **Human Intelligence:** The content, structure, and message are developed and authored by the human. The core meaning, arguments, and creative direction remain entirely human-driven.
-**Artificial Intelligence:** Used to refine expression. AI rephrases or reformulates text to improve clarity, tone, or flow — without altering the intended meaning or introducing new ideas.
+**Artificial Intelligence:** Used to refine expression. AI refines expression (e.g., re-lights an image, smooths a voice-over, rephrases dialogue) to improve clarity, tone, or flow — without altering the intended meaning or introducing new ideas.
 
 ## Description:
 HAI/3 reflects a collaboration in which the human author defines what is being said, while the AI assists in how it is said. The author retains control over substance and direction but delegates stylistic polishing — such as making a sentence smoother, adjusting tone for a target audience, or tightening wordiness.

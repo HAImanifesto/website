@@ -11,7 +11,7 @@ weight: 5
 
 ## Structure:
 **Human Intelligence:** The human author remains the principal guide — defining goals, evaluating outputs, and making final decisions. The core ideas often originate from the human, but some content may be adapted or co-developed through prompts and iterations.
-**Artificial Intelligence:** Actively contributes to the writing itself. AI generates phrasing, paragraphs, or sections based on human prompts, and its outputs are retained — possibly with human editing — as part of the final work.
+**Artificial Intelligence:** Actively contributes to the writing itself. AI generates substantive portions—text passages, design comps, music loops, code modules—based on human prompts based on human prompts, and its outputs are retained — possibly with human editing — as part of the final work.
 
 ## Description:
 HAI/5 signals a balanced partnership in which AI participates in content creation. The human provides intent, framing, and judgment, while AI contributes substantive language. The process often involves iterative prompting, with the human shaping and refining the AI’s outputs to suit their needs — but not entirely rewriting or replacing them.

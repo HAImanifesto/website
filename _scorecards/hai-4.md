@@ -11,7 +11,7 @@ weight: 4
 
 ## Structure:
 **Human Intelligence:** The human defines the purpose, main message, and intent of the work. The core themes, direction, and decisions remain human-led, but some structural elements are shaped in dialogue with AI suggestions.
-**Artificial Intelligence:** Actively contributes to organizing or reconfiguring the structure and formulation. AI may suggest outlines, paragraph ordering, or sectioning strategies — while the human accepts, modifies, or rejects these inputs.
+**Artificial Intelligence:** Actively contributes to organizing or reconfiguring the structure and formulation. AI may suggest storyboards, sequence ordering, scene breakdowns, layout grids, track arrangements. — while the human accepts, modifies, or rejects these inputs.
 
 ## Description:
 HAI/4 represents a more integrated form of collaboration. The human author still owns the core message and governs the process, but AI plays a noticeable role in shaping how that message is built. This can include proposing outlines, reorganizing content flow, or suggesting where and how points could be introduced or grouped.

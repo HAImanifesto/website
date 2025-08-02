@@ -11,12 +11,12 @@ weight: 2
 
 ## Structure:
 **Human Intelligence:** The full content, structure, and formulation are created by the human author. Ideas, arguments, and tone are the result of independent human reasoning and composition.
-**Artificial Intelligence:** Limited to reviewing clarity, coherence, and factual consistency. AI may highlight issues, flag ambiguities, or suggest areas to reconsider — but does not write, rewrite, or restructure content.
+**Artificial Intelligence:** Limited to reviewing clarity, coherence, factual or technical consistency (e.g., colour-profile mismatches, audio clipping, logical bugs). AI may highlight issues, flag ambiguities, or suggest areas to reconsider — but does not write, rewrite, or restructure content.
 
 ## Description:
 HAI/2 indicates a work that is written entirely by a human, with AI tools used only for high-level review. The AI acts as a verifier, helping the author ensure the logic flows, points are clear, and inconsistencies are addressed — but it does not contribute new phrasing, ideas, or stylistic revisions.
 
-The key distinction at this level is that AI may prompt human reflection (e.g. “This paragraph could be clearer” or “This argument seems unsupported”) but never provides the solution itself. If the AI begins to generate or suggest rewritten passages, even in part, the work would qualify as HAI/3 or higher.
+The key distinction at this level is that AI may prompt human reflection (e.g. “This paragraph could be clearer”, "this scene cut feels abrupt", "this colour contrast violates accessibility guidelines" or “This argument seems unsupported”) but never provides the solution itself. If the AI begins to generate or suggest rewritten passages, even in part, the work would qualify as HAI/3 or higher.
 
 ## Contexts Where This Applies:
 - Professional or academic writing that allows AI-based quality control but not AI rewriting.
