@@ -1,5 +1,5 @@
 ---
-title: "HAI/0 — Fully Human-Made"
+title: "HAI/0 - Fully Human-Made"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/HAI_sticker_darkPlate10_S0.svg"
 hi_role: "author"
