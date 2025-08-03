@@ -41,4 +41,4 @@ Alcune situazioni — come l’espressione personale o la valutazione didattica 
 
 ## Scala AI:M
 
-Le schede mostrano come i contributi umani e dell’IA si sviluppano da AI:M0 a AI:M9 — fornendo ai creatori un riferimento per autovalutare il proprio processo e offrendo a editori, istituzioni o piattaforme un modo coerente di comprendere e comunicare il livello di collaborazione dietro a un’opera.
+Le schede mostrano come i contributi umani e dell’IA si sviluppano da AI:0 a AI:9 — fornendo ai creatori un riferimento per autovalutare il proprio processo e offrendo a editori, istituzioni o piattaforme un modo coerente di comprendere e comunicare il livello di collaborazione dietro a un’opera.

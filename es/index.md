@@ -41,4 +41,4 @@ Algunas situaciones — como la expresión personal o la evaluación educativa �
 
 ## Escala AI:M
 
-Las **fichas** de puntuación ilustran cómo escalan las contribuciones humanas y de la IA desde AI:M0 hasta AI:M9 — proporcionando a los creadores una referencia para autoevaluar su proceso y ofreciendo a editores, instituciones o plataformas una forma coherente de comprender y comunicar el nivel de colaboración detrás de una obra.
+Las **fichas** de puntuación ilustran cómo escalan las contribuciones humanas y de la IA desde AI:0 hasta AI:9 — proporcionando a los creadores una referencia para autoevaluar su proceso y ofreciendo a editores, instituciones o plataformas una forma coherente de comprender y comunicar el nivel de colaboración detrás de una obra.

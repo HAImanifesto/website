@@ -41,4 +41,4 @@ Manche Situationen — etwa persönliche Ausdrucksformen oder bildungsbezogene B
 
 ## AI:M Skala
 
-Die Scorecards veranschaulichen, wie sich menschliche und KI‑Beiträge von AI:M0 bis AI:M9 staffeln — und liefern Kreativen eine Orientierung zur Selbsteinschätzung ihres Prozesses sowie Verlagen, Institutionen oder Plattformen eine einheitliche Möglichkeit, das Maß der Zusammenarbeit hinter einem Werk zu verstehen und zu kommunizieren.
+Die Scorecards veranschaulichen, wie sich menschliche und KI‑Beiträge von AI:0 bis AI:9 staffeln — und liefern Kreativen eine Orientierung zur Selbsteinschätzung ihres Prozesses sowie Verlagen, Institutionen oder Plattformen eine einheitliche Möglichkeit, das Maß der Zusammenarbeit hinter einem Werk zu verstehen und zu kommunizieren.
