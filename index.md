@@ -1,7 +1,7 @@
 ---
-title: The Authorship Indicator Manifesto
+title: The Authorship-Indicator Manifesto
 layout: manifesto
-description: The Authorship Indicator Manifesto
+description: The Authorship-Indicator Manifesto
 scorecards_description: You are invited to use the AI/M Scorecards for your own creation
 ---
 
