@@ -9,7 +9,7 @@ description: "Indikatoren der Urheberschaft: Ein Manifest"
 **Urheberschaft entwickelt sich weiter.** Die meisten Kreativen — Romanautoren, Designer, Programmierer, Komponisten — integrieren bereits generative KI in ihren Arbeitsprozess, skizzieren Storyboards, remixen Beats oder kolorieren Fotos mit maschineller Geschwindigkeit. 
 Dieses Manifest blickt in eine nahe Zukunft, in der KI in nahezu jeder Form kreativer Arbeit präsent sein wird — oft unsichtbar. In diesem Kontext wird es unerlässlich sein, klar zu kennzeichnen, wie ein Werk entstanden ist. Transparenz über die «Zutaten» der Erstellung wird notwendig sein, um Vertrauen, Sinn und Verantwortung in einer Welt hybrider Autorenschaft zu bewahren.
 
-> Das AI:M Manifest bietet eine strukturierte Möglichkeit, die Rolle von künstlicher Intelligenz in kreativer Arbeit zu beschreiben und offenzulegen — offen, präzise und im Kontext.
+> Das Manifest der Indikatoren der Urheberschaft bietet eine strukturierte Möglichkeit, die Rolle von künstlicher Intelligenz in kreativer Arbeit zu beschreiben und offenzulegen — offen, präzise und im Kontext.
 
 Es ist nicht Aufgabe dieses Manifests, Systeme der Belohnung oder Zwang zu schaffen. Es hat nicht das Ziel, Offenlegung durch Vorteile zu fördern oder sie durch Einschränkungen durchzusetzen. Das AI:M Manifest ist ein Aufruf, das AI:M Rahmenwerk ein Satz von Prinzipien, und der AI:M Score ein Werkzeug zur Orientierung und Transparenz.
 
