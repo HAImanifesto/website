@@ -5,7 +5,7 @@ description: Supporting Studies
 permalink: /studies/
 ---
 
-> Disclaimer: The HAI/ Manifesto is entirely independent of the studies presented and references their findings solely to inform its conceptual development.
+> Disclaimer: The AI:M Manifesto is entirely independent of the studies presented and references their findings solely to inform its conceptual development.
 
 ### Studies supporting “AI contributions must be transparent”
 

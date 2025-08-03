@@ -1,5 +1,5 @@
 ---
-title: "AI/0 - Fully Human-Made"
+title: "AI:0 - Fully Human-Made"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/AIM_sticker_darkPlate10_S0.svg"
 hi_role: "author"
@@ -14,9 +14,9 @@ weight: 0
 **Artificial Intelligence:** None. No AI tools — generative, assistive, or suggestive — are used at any stage. Only basic utilities such as a keyboard, word processor, or spellcheck may be present, without contributing meaningfully to the content.
 
 ## Description:
-AI/0 identifies a work that is purely the result of human creative and intellectual effort. This applies equally to writing, imagery, audio, code, choreography, or any other creative format. The human author independently develops the subject, generates the language, and makes all decisions regarding style, tone, and structure. No part of the process is shaped, checked, or enhanced by artificial intelligence.
+AI:0 identifies a work that is purely the result of human creative and intellectual effort. This applies equally to writing, imagery, audio, code, choreography, or any other creative format. The human author independently develops the subject, generates the language, and makes all decisions regarding style, tone, and structure. No part of the process is shaped, checked, or enhanced by artificial intelligence.
 
-This level excludes any form of AI-driven support — including rewriting suggestions, grammar improvements, or idea validation. Even indirect influence from AI-generated examples, prompts, or outlines would disqualify a work from being considered AI/0.
+This level excludes any form of AI-driven support — including rewriting suggestions, grammar improvements, or idea validation. Even indirect influence from AI-generated examples, prompts, or outlines would disqualify a work from being considered AI:0.
 
 ## Contexts Where This Applies:
 
