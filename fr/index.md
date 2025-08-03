@@ -41,4 +41,4 @@ Certaines situations — comme l'expression personnelle ou l'évaluation pédago
 
 ## AI:M Échelle
 
-Les fiches illustrent comment les contributions humaines et celles de l'IA se déploient du AI:M0 au AI:M9 — offrant aux créateurs un repère pour s’autoévaluer et proposant aux éditeurs, institutions ou plateformes un moyen cohérent de comprendre et de communiquer le niveau de collaboration derrière une œuvre.
+Les fiches illustrent comment les contributions humaines et celles de l'IA se déploient du AI:0 au AI:9 — offrant aux créateurs un repère pour s’autoévaluer et proposant aux éditeurs, institutions ou plateformes un moyen cohérent de comprendre et de communiquer le niveau de collaboration derrière une œuvre.
