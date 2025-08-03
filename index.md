@@ -1,8 +1,8 @@
 ---
-title: The HAI/ Manifesto
+title: The Authorship Indicator Manifesto
 layout: manifesto
-description: The HAI/ Manifesto 
-scorecards_description: You are invited to use the HAI/ Scorecards for your own creation
+description: The Authorship Indicator Manifesto
+scorecards_description: You are invited to use the AI/M Scorecards for your own creation
 ---
 
 > *A New Creative Paradigm for Human / Artificial Intelligence*
@@ -14,7 +14,7 @@ This Manifesto looks ahead to a near future in which AI will be present in almos
 
 It is not the role of this manifesto to create systems of reward or coercion. It does not aim to incentivize disclosure through benefits, nor to enforce it through constraints. The HAI/ Manifesto is a call, the HAI/ Framework a set of principles, and the HAI/ Score a tool for orientation and transparency.
 
-## HAI/ Framework
+## AI/M Framework
 
 The framework is a practical method for describing how artificial intelligence contributes to the creation of a work — making visible the degree and nature of human–machine collaboration.
 
@@ -24,7 +24,7 @@ It encourages **creators** to clearly state how AI tools were used, and invites 
 
 It may be argued that creators will, in practice, avoid disclosing their use of AI — whether out of habit, uncertainty, or strategic silence. But the need for transparency does not rely on perfect honesty. It reflects a structural shift in authorship that must be addressed. Even if disclosure is uneven at first, the existence of a shared framework — and the cultural expectation it establishes — is essential. Acknowledging machine contributions is not only a question of compliance, but of creative integrity.
 
-## HAI/ Principles
+## AI/M Principles
 
 This framework is based on the acknowledgment that machines may contribute, but the human remains the source of intention, judgment, and responsibility — a foundation that gives rise to the following key principles:
 
@@ -33,7 +33,7 @@ This framework is based on the acknowledgment that machines may contribute, but 
 3. **Responsibility stays with people.** Decisions, interpretations, and impacts are human matters.
 
 
-## HAI/ Score
+## AI/M Score
 
 The HAI/ Score is a **classification system**, supported by scorecards, that signals the degree and nature of AI involvement in the creation of any work — novel, film sequence, orchestral score, source code — ranking it from fully human-made to fully machine-generated with distinct levels reflecting the balance of authorship.
 
@@ -41,6 +41,6 @@ The HAI/ Score is a **classification system**, supported by scorecards, that sig
 
 Some situations — such as personal expression or educational evaluation — may call for minimal AI involvement. Others — such as technical, scientific, or analytical work — may benefit from more substantial support, especially when accuracy, consistency, or scale are priorities.
 
-## HAI/ Scale 
+## AI/M Scale
 
 The scorecards illustrate how human and AI contributions scale from HAI/0 to HAI/9 — providing creators with a reference for self-assessing their process, and offering publishers, institutions, or platforms a consistent way to understand and communicate the level of collaboration behind a work.
