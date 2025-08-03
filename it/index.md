@@ -1,7 +1,7 @@
 ---
-title: Il Manifesto AI:M
+title: "Indicatori di Autorialità: Un Manifesto"
 layout: manifesto
-description: Il Manifesto AI:M
+description: "Indicatori di Autorialità: Un Manifesto"
 ---
 
 > *Un nuovo paradigma creativo per l'intelligenza umana / artificiale*
