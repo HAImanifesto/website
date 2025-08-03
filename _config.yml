@@ -3,10 +3,10 @@ permalink: pretty
 title: 'AI/M'
 
 logo:
-  mobile: "images/logo/hai-scorecard-mobile.svg"
+  mobile: "images/logo/aim-scorecard-mobile.svg"
   mobile_height: "50px"
   mobile_width: "50px"
-  desktop: "images/logo/hai-scorecard.svg"
+  desktop: "images/logo/aim-scorecard.svg"
   desktop_height: "50px"
   desktop_width: "50px"
 
