@@ -1,7 +1,7 @@
 ---
-title: El Manifiesto AI:M
+title: "Indicadores de Autoría: Un Manifiesto"
 layout: manifesto
-description: El Manifiesto AI:M
+description: "Indicadores de Autoría: Un Manifiesto"
 ---
 
 > *Un nuevo paradigma creativo para la inteligencia humana / artificial*

@@ -1,7 +1,7 @@
 ---
-title: Das AI:M Manifest
+title: "Indikatoren der Urheberschaft: Ein Manifest"
 layout: manifesto
-description: Das AI:M Manifest
+description: "Indikatoren der Urheberschaft: Ein Manifest"
 ---
 
 > *Ein neues kreatives Paradigma für menschliche / künstliche Intelligenz*
