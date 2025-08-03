@@ -1,5 +1,5 @@
 ---
-title: "AI/7 - AI as Lead Creator"
+title: "AI:7 - AI as Lead Creator"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/AIM_sticker_darkPlate10_S7.svg"
 hi_role: "curator"
@@ -14,7 +14,7 @@ weight: 7
 **Artificial Intelligence:** Generates the entire content or nearly all of it. AI determines structure, language, tone, and flow based on initial input. Any human contribution is marginal and does not affect the core of the work.
 
 ## Description:
-AI/7 reflects a context in which AI takes near-total control of the creative process. The human’s role is limited to initiating the process or approving outputs, with little to no intervention in how the work is constructed. This may involve submitting a high-level prompt (e.g. “Write a blog post about...”, "Create a 90-second explainer video about…", "Compose an ambient soundtrack about…") and accepting the result with only minor or superficial changes.
+AI:7 reflects a context in which AI takes near-total control of the creative process. The human’s role is limited to initiating the process or approving outputs, with little to no intervention in how the work is constructed. This may involve submitting a high-level prompt (e.g. “Write a blog post about...”, "Create a 90-second explainer video about…", "Compose an ambient soundtrack about…") and accepting the result with only minor or superficial changes.
 
 There is no meaningful rewriting, restructuring, or content development by the human. The AI's output stands as the final product in both voice and substance. While the human remains in control of usage and intent, they are no longer a co-author in any substantial way.
 

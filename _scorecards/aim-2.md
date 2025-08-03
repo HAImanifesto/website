@@ -1,5 +1,5 @@
 ---
-title: "AI/2 - AI as Verifier"
+title: "AI:2 - AI as Verifier"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/AIM_sticker_darkPlate10_S2.svg"
 hi_role: "author"
@@ -14,9 +14,9 @@ weight: 2
 **Artificial Intelligence:** Limited to reviewing clarity, coherence, factual or technical consistency (e.g., colour-profile mismatches, audio clipping, logical bugs). AI may highlight issues, flag ambiguities, or suggest areas to reconsider — but does not write, rewrite, or restructure content.
 
 ## Description:
-AI/2 indicates a work that is written entirely by a human, with AI tools used only for high-level review. The AI acts as a verifier, helping the author ensure the logic flows, points are clear, and inconsistencies are addressed — but it does not contribute new phrasing, ideas, or stylistic revisions.
+AI:2 indicates a work that is written entirely by a human, with AI tools used only for high-level review. The AI acts as a verifier, helping the author ensure the logic flows, points are clear, and inconsistencies are addressed — but it does not contribute new phrasing, ideas, or stylistic revisions.
 
-The key distinction at this level is that AI may prompt human reflection (e.g. “This paragraph could be clearer”, "this scene cut feels abrupt", "this colour contrast violates accessibility guidelines" or “This argument seems unsupported”) but never provides the solution itself. If the AI begins to generate or suggest rewritten passages, even in part, the work would qualify as AI/3 or higher.
+The key distinction at this level is that AI may prompt human reflection (e.g. “This paragraph could be clearer”, "this scene cut feels abrupt", "this colour contrast violates accessibility guidelines" or “This argument seems unsupported”) but never provides the solution itself. If the AI begins to generate or suggest rewritten passages, even in part, the work would qualify as AI:3 or higher.
 
 ## Contexts Where This Applies:
 - Professional or academic writing that allows AI-based quality control but not AI rewriting.

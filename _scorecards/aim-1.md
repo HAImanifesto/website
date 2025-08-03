@@ -1,5 +1,5 @@
 ---
-title: "AI/1 - AI as Polisher"
+title: "AI:1 - AI as Polisher"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/AIM_sticker_darkPlate10_S1.svg"
 hi_role: "author"
@@ -14,9 +14,9 @@ weight: 1
 **Artificial Intelligence:** Minimal surface-level intervention. AI is used solely for correcting surface-level technical errors (e.g., spelling in text, frame-rate glitches in video, noise pops in audio, typos in code) — without influencing the meaning, structure, or voice of the message.
 
 ## Description:
-AI/1 represents a work in which the human creator retains full authorship while using AI tools strictly for technical clean-up. The core ideas, expressions, and narrative choices remain untouched. AI’s role is limited to functioning like a mechanical proofreader — flagging or correcting surface-level errors without contributing suggestions that affect the content or its delivery.
+AI:1 represents a work in which the human creator retains full authorship while using AI tools strictly for technical clean-up. The core ideas, expressions, and narrative choices remain untouched. AI’s role is limited to functioning like a mechanical proofreader — flagging or correcting surface-level errors without contributing suggestions that affect the content or its delivery.
 
-This category does not include stylistic rewriting, clarity enhancements, or automated rephrasing. It also excludes the use of AI for content generation, outline proposals, or paraphrasing prompts. Any such involvement would exceed AI/1.
+This category does not include stylistic rewriting, clarity enhancements, or automated rephrasing. It also excludes the use of AI for content generation, outline proposals, or paraphrasing prompts. Any such involvement would exceed AI:1.
 
 ## Contexts Where This Applies:
 - Academic or professional writing that permits proofreading but not stylistic or conceptual assistance.

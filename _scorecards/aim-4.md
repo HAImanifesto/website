@@ -1,5 +1,5 @@
 ---
-title: "AI/4 - AI as Architect"
+title: "AI:4 - AI as Architect"
 date: 2025-01-01
 image: "assets/scorecards/translucent-dark/AIM_sticker_darkPlate10_S4.svg"
 hi_role: "originator"
@@ -14,7 +14,7 @@ weight: 4
 **Artificial Intelligence:** Actively contributes to organizing or reconfiguring the structure and formulation. AI may suggest storyboards, sequence ordering, scene breakdowns, layout grids, track arrangements. — while the human accepts, modifies, or rejects these inputs.
 
 ## Description:
-AI/4 represents a more integrated form of collaboration. The human author still owns the core message and governs the process, but AI plays a noticeable role in shaping how that message is built. This can include proposing outlines, reorganizing content flow, or suggesting where and how points could be introduced or grouped.
+AI:4 represents a more integrated form of collaboration. The human author still owns the core message and governs the process, but AI plays a noticeable role in shaping how that message is built. This can include proposing outlines, reorganizing content flow, or suggesting where and how points could be introduced or grouped.
 
 AI may also participate in reformulating ideas during this structural development — not by generating original content, but by providing alternatives in how existing human ideas are composed and delivered. At this level, the boundary between AI as a stylist and AI as a structural co-planner becomes relevant.
 
