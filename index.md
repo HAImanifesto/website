@@ -1,8 +1,8 @@
 ---
-title: Authorship Indicators: A Manifesto
+title: "Authorship Indicators: A Manifesto"
 layout: manifesto
-description: Authorship Indicators: A Manifesto
-scorecards_description: You are invited to use the AI:M Scorecards for your own creation
+description: "Authorship Indicators: A Manifesto"
+scorecards_description: "You are invited to use the AI:M Scorecards for your own creation."
 ---
 
 > *A New Creative Paradigm for Human / Artificial Intelligence*
