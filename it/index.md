@@ -9,7 +9,7 @@ description: "Indicatori di Autorialità: Un Manifesto"
 **Il concetto di autorialità si sta evolvendo.** La maggior parte dei creatori — romanzieri, designer, programmatori, compositori — integra già l’IA generativa nel proprio processo, abbozzando storyboard, remixando beat o correggendo i colori delle foto a velocità di macchina. 
 Questo Manifesto guarda a un futuro prossimo in cui l’IA sarà presente in quasi ogni forma di lavoro creativo — spesso in modo invisibile. In tale contesto, identificare chiaramente come è stata realizzata un’opera non sarà più facoltativo, ma essenziale. La trasparenza sugli “ingredienti” della creazione sarà necessaria per preservare in modo sano la fiducia, il significato e la responsabilità in un mondo di autorialità ibrida.
 
-> Il Manifesto AI:M propone un modo strutturato di descrivere e divulgare il ruolo dell’intelligenza artificiale nelle opere creative — apertamente, con precisione e nel contesto.
+> Il Manifesto degli Indicatori di Autorialità propone un modo strutturato di descrivere e divulgare il ruolo dell’intelligenza artificiale nelle opere creative — apertamente, con precisione e nel contesto.
 
 Non è compito di questo manifesto creare sistemi di ricompensa o coercizione. Non mira a incentivare la divulgazione tramite vantaggi né a imporla attraverso vincoli. Il Manifesto AI:M è un appello, il Quadro AI:M un insieme di principi e il Punteggio AI:M uno strumento di orientamento e trasparenza.
 

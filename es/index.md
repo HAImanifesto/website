@@ -9,7 +9,7 @@ description: "Indicadores de Autoría: Un Manifiesto"
 **La autoría está evolucionando.** La mayoría de los creadores — novelistas, diseñadores, programadores, compositores — ya integran la IA generativa en su proceso, esbozando guiones gráficos, remezclando ritmos o ajustando el color de las fotos a velocidad de máquina. 
 Este Manifiesto mira hacia un futuro cercano en el que la IA estará presente en casi todas las formas de trabajo creativo — a menudo de forma invisible. En ese contexto, identificar claramente cómo se hizo una obra dejará de ser opcional para convertirse en algo esencial. La transparencia sobre los “ingredientes” de la creación será necesaria para preservar de forma sana la confianza, el sentido y la responsabilidad en un mundo de autoría híbrida.
 
-> El Manifiesto AI:M propone una forma estructurada de describir y revelar el papel de la inteligencia artificial en la creación — de manera abierta, precisa y contextual.
+> El Manifiesto de Indicadores de Autoría propone una forma estructurada de describir y revelar el papel de la inteligencia artificial en la creación — de manera abierta, precisa y contextual.
 
 No es función de este manifiesto crear sistemas de recompensa o coacción. No pretende incentivar la divulgación mediante beneficios ni imponerla a través de restricciones. El Manifiesto AI:M es un llamamiento, el Marco AI:M un conjunto de principios y la Puntuación AI:M una herramienta de orientación y transparencia.
 
