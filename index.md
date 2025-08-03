@@ -43,4 +43,4 @@ Some situations — such as personal expression or educational evaluation — ma
 
 ## AI:M Scale
 
-The scorecards illustrate how human and AI contributions scale from AI:M0 to AI:M9 — providing creators with a reference for self-assessing their process, and offering publishers, institutions, or platforms a consistent way to understand and communicate the level of collaboration behind a work.
+The scorecards illustrate how human and AI contributions scale from AI:0 to AI:9 — providing creators with a reference for self-assessing their process, and offering publishers, institutions, or platforms a consistent way to understand and communicate the level of collaboration behind a work.
