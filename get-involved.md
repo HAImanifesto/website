@@ -11,17 +11,17 @@ If you believe in transparency, integrity, and clarity in the age of human–AI 
 ## 1. Take Action
 
 Pick one or more of the following:
-- **Publish the Manifesto.** Repost it on your own website, blog, newsletter, intranet, or repository. Include a visible link back to HAImanifesto.org.
+- **Publish the Manifesto.** Repost it on your own website, blog, newsletter, intranet, or repository. Include a visible link back to AuthorshipIndicators.org.
 - **Mention it in your work.** Add a note of support or a link in your publication, project credits, classroom materials, policy brief, or tool documentation.
 - **Use the AI:M Score.** Apply it to a recent piece of work — a poem, article, dataset, AI-generated artwork — and disclose the balance between human and machine.
-- **Share it.** Post the Manifesto or a quote from it on social media, with your own comment. Use hashtag #HAImanifesto. 
+- **Share it.** Post the Manifesto or a quote from it on social media, with your own comment. Use hashtag #AIM. 
 - **Sign the Manifesto.** Add your name to the growing list of individuals and organizations who support transparent AI authorship.
 
 ## 2. Tell Us What You Did
 
 We want to showcase real-world support and action. 
 After you've taken one or more steps,\
-**Email us** at *HAImanifesto.org@gmail.com* with:\
+**Email us** at *AuthorshipIndicators@gmail.com* with:\
 - **A short description** of your action
 - **A public link** (to your site, article, repository, social post, etc.)
 
